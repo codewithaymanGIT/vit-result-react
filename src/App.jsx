@@ -41,6 +41,7 @@ function App() {
 
   return (
     <div className="app">
+      <div className="student-credit">Mohammed Ayman Siddiqui · CS-H · Roll 13 · PRN 12414007</div>
       <h1>VIT Semester Result</h1>
 
       <table className="result-table">
