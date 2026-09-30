@@ -1,4 +1,4 @@
-# VIT Semester Result Calculator (React)
+﻿# VIT Semester Result Calculator (React)
 
 Calculates semester results for 4 subjects using MSE (30%) + ESE (70%) weightage.
 
@@ -13,3 +13,8 @@ Calculates semester results for 4 subjects using MSE (30%) + ESE (70%) weightage
 ## Run
 npm install
 npm run dev
+
+## Screenshots
+
+![Result](screenshots/result.png)
+
